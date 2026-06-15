@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "AutoMLR"]
 	path = AutoMLR
-	url = https://github.com/cran/AutoMLR
+	url = https://github.com/robinllab/automlr
